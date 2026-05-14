@@ -768,6 +768,7 @@ See also the SQL section.
 - [Use the index, Luke](https://use-the-index-luke.com/)
 - [Course introduction — MySQL for Developers](https://planetscale.com/learn/courses/mysql-for-developers/introduction/course-introduction), PlanetScale
 - [Why you should probably be using SQLite | Epic Web Dev](https://www.epicweb.dev/why-you-should-probably-be-using-sqlite)
+- 📖 [Database Internals](https://www.databass.dev/)
 
 Scaling databases:
 
@@ -1215,6 +1216,7 @@ Practice:
 - [NandGame](https://nandgame.com/): build a computer from scratch.
 - [What Every Programmer Should Know About SSDs](http://databasearchitects.blogspot.com/2021/06/what-every-programmer-should-know-about.html)
 - [How To Make A CPU - A Simple Picture Based Explanation](https://blog.robertelder.org/how-to-make-a-cpu/)
+- [Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/ac/ax/be/bn)](https://www.wiisfi.com/)
 
 ### HTTP
 
